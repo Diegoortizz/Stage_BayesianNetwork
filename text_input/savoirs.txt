@@ -1,0 +1,56 @@
+SAVOIRS
+
+C1_1 Définition d'une matrice. Taille d'une matrice  
+C2_1 Quelques matrices remarquables : colonnes, lignes  
+C3_1 Quelques matrices remarquables : diagonales  
+C4_1 Quelques matrices remarquables : triangulaires  
+C5_1 Définition et calcul de la trace d’une matrice carrée  
+C6_1 Transposée d'une matrice carrée : définition  
+M1_1 calcul de la transposée d'une matrice  
+C7_1 Somme de deux matrices : définition et compatibilité des tailles  
+M2_1 Somme de deux matrices : calcul pratique  
+C8_1 Produit par un réel : définition et calcul  
+M3_1 Produit par un réel : combinaisons linéaires de matrices  
+C9_1 Produit de deux matrices : définition et compatibilité des tailles  
+M4_1 Produit de deux matrices : calcul pratique  
+C10_1 Inverse d'une matrice. Définition 
+C1_2 ecriture matricielle d'un système  
+C2_2 echange de deux lignes d'un système linéaire  
+M1_2 echange de deux lignes d'un système linéaire  
+C3_2 produit d'une ligne par un réel non nul dans un système linéaire  
+M2_2 produit d'une ligne par un réel non nul dans un système linéaire  
+M3_2 Ajout d'une ligne à une autre  
+C4_2 Ajout d'une ligne à une autre  
+C5_2 Invariance des solutions par opérations élémentaires  
+M4_2 Résolution d'un système par pivot de Gauss (sans stratégie de pivot)  
+C1_3 Calcul de déterminants de dimension 2  
+M1_3 Calcul de déterminants : règle de Sarrus pour la dimension 3  
+C2_3 Calcul de déterminants d'une matrice triangulaire 
+M2_3 Développement par rapport à une ligne ou une colonne (determinant)  
+C3_3 Opérations élémentaires et déterminants : échange  
+C4_3 Opérations élémentaires et déterminants : produit  
+C5_3 Opérations élémentaires et déterminants : ajout  
+M3_3 Calcul d'un déterminant par pivot de Gauss  
+C6_3 Caractérisation des matrices inversibles par le déterminant	 
+C1_4 Lien système de Cramer-matrice inversible  
+C2_4 Solution unique d'un système de Cramer  
+C3_4 Détermination pratique de l'unique solution d'un système de Cramer par calcul de l'inverse  
+M1_4 Détermination pratique de l'unique solution d'un système de Cramer par les formules de Cramer  
+M2_4 Calcul pratique de l'inverse d'une matrice par la méthode de Gauss-Jordan  
+
+SAVOIR-FAIRE
+
+SF1 habileté calculatoire, élémentaire dans Z.
+SF2 Rigueur, dans le respect des hypothèses d’un théorème 
+SF3 Rigueur, dans le respect de l’équivalence logique 
+
+COMPETENCES
+
+C1 Calculer la trace d’une matrice | C1_1, C3_1, C5_1, SF2
+C2 Calculer la transposée d’une matrice | C1_1, C6_1, M1_1, SF2
+C3 Effectuer des sommes de matrices | C1_1, C7_1, M2_1
+C4 Effectuer des combinaisons linéaires de matrices | C1_1, C7_1, M2_1, C8_1, M3_1, SF1
+C5 Effectuer des produits de matrices | C1_1, C7_1, M2_1, C9_1, M4_1, SF2
+C6 Résoudre des systèmes linéaires | C1_2, C2_2, C3_2, C4_2, C5_2, M1_2, M2_2, M3_2, M4_2, C1_4, C2_4, C3_4, M1_4, M2_4, SF1, SF2, SF3
+C7 Calculer des déterminants | C1_2, C2_2, M1_2, C3_2, M2_2, M3_2, C4_2, C5_2, M4_2, C1_3, M1_3, C2_3, M2_3, C3_3, C4_3, C5_3, M3_3, C6_3, SF1, SF2, SF3
+C8 Inverser des matrices | C8_1, C1_2, C2_2, M1_2, C3_2, M2_2, M3_2, C4_2, C5_2, M4_2, M2_4, SF1, SF2, SF3
