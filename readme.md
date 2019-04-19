@@ -1,4 +1,4 @@
-﻿# Création et apprentissage d'un réseau bayésien avec GeNie
+# Création et apprentissage d'un réseau bayésien avec GeNie
 
 
 ## Mode d'emploi
